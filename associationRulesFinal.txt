@@ -1,0 +1,7 @@
+Row(antecedent=['No Sterilized'], consequent=['Healthy'], confidence=0.9707254143098144, lift=1.0052552933241503, support=0.6524378043086774)
+Row(antecedent=['Short Fur'], consequent=['Healthy'], confidence=0.9691189827429609, lift=1.0035917190402828, support=0.5693323550990462)
+Row(antecedent=['Yes Dewormed'], consequent=['Healthy'], confidence=0.9718947243062999, lift=1.006466197093822, support=0.5443206829853932)
+Row(antecedent=['Healthy'], consequent=['No Sterilized'], confidence=0.6756458074319658, lift=1.0052552933241503, support=0.6524378043086774)
+Row(antecedent=['Healthy'], consequent=['Medium MaturitySize'], confidence=0.6927752451996132, lift=1.007935880764464, support=0.6689788567998399)
+Row(antecedent=['Dog'], consequent=['Healthy'], confidence=0.9647073290703394, lift=0.9990231375018371, support=0.5232441806176216)
+Row(antecedent=['Medium MaturitySize'], consequent=['Healthy'], confidence=0.9733139252789907, lift=1.0079358807644638, support=0.6689788567998399)
